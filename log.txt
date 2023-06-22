@@ -1,0 +1,5 @@
+Add student , name : ali
+get all students
+retrieve student , name : ali
+update student , name : rami
+remove student , name : rami
